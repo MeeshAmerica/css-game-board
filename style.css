@@ -1,0 +1,14 @@
+h1 {
+    text-align: center
+}
+
+.board {
+    padding-top: 3em
+}
+
+.row {
+    float: left;
+    height: 100px;
+    width: 100px;
+    clear: both;
+}
