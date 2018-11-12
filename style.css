@@ -29,3 +29,7 @@ div div {
 .left {
     border-right: 1px pink solid;
 }
+div:hover {
+ cursor: pointer; 
+ color: pink  
+}
